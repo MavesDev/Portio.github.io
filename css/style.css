@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(48, 48, 48);
+}
+
+#projects {
+  background-color: rgb(48, 48, 48);
+}
+
+#projects .card img {
+  height: 250px;
+}
+
+section {
+  padding-top: 5rem;
+}
